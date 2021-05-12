@@ -6,7 +6,7 @@ classification in motor-imagery-based BC
 
 ## Enviroment and Datasets Used
 ### Environment
-* Ubutun  18.04
+* Ubuntu  18.04
 * Python 3.8.3
 * pytorch 1.7.0
 * scipy 1.5.0
